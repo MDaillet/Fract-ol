@@ -4,3 +4,7 @@ It is the first graphical project I have ever done. I chose to do Mandelbrot, Ju
 
 Here is some videos to illustrate this project.
 
+
+
+https://user-images.githubusercontent.com/55747965/147464417-f116cad6-71f0-4bce-8bc5-1ae4772a4fbf.mp4
+
