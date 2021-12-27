@@ -8,4 +8,4 @@ Here is some videos to illustrate this project.
 
 ![ezgif com-gif-maker(1)](https://user-images.githubusercontent.com/55747965/147465524-74384c67-6565-42f3-b510-da1b87680bdf.gif)
 
-![Fractol3](https://user-images.githubusercontent.com/55747965/147466992-f5263760-39f4-43de-85be-1ec90a621ff5.gif)
+![Fractol4](https://user-images.githubusercontent.com/55747965/147467058-e59d4e05-678d-4ffd-a79d-b3984afe4a7a.gif)
